@@ -1,0 +1,4 @@
+file,start_date,start_time,power_source,duration_s,duration_h,mean_power_W,TRIMP,NP_W,pct_time_gt_CP,SS_total,SS_CP,SS_Wprime,SS_Pmax,IF,TSS,min_Wbal_J,final_Wbal_J
+20240602_1145.csv,2024-06-02,05:45:18,estimated,12296,3.416,57,NA,100.9,3.9,101.7,94.4,5.1,2.2,0.506,87.5,13585,18065
+20240610_1925.csv,2024-06-10,13:25:27,estimated,4675,1.299,94,NA,114.7,17.1,80.9,70.6,8.3,2,0.575,43,13381,16034
+20240619_1131.csv,2024-06-19,05:31:17,estimated,3670,1.019,140.2,NA,172.5,23.1,144.6,119.4,19.9,5.3,0.865,76.3,2318,14898
